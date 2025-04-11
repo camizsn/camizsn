@@ -1,6 +1,6 @@
 # Oi, meu nome é Camille! ❣️
 ## Estudante de Ciência de Dados
-Apaixonada por tecnologia e pelo poder dos dados 🎲, estou sempre explorando novas formas de transformar informações em insights valiosos 💡. Atualmente, curso Ciência de Dados na [UNINTER](https://www.uninter.com/), buscando aprofundar meu conhecimento em análise, estatística e inteligência artificial ⚙️.
+Sou uma apaixonada por tecnologia e pelo poder de transformação que os dados 🎲 são capazes de realizar, estando sempre na busca incansável de descobrir novas formas de transformá-los em insights valiosos 💡. Atualmente, curso Ciência de Dados na [UNINTER](https://www.uninter.com/), buscando aprofundar meu conhecimento em análise, estatística e inteligência artificial ⚙️.
 ___
 
 ### 🎯 De onde eu sou?
@@ -9,7 +9,7 @@ ___
 
 ### 🎯 **O que eu faço e no que sou boa:**
 
-- 🔍 **Análise e Visualização de Dados:** Exploro, limpo e interpreto dados para gerar insights utilizando ferramentas como Python (Pandas, NumPy,             Matplotlib) e SQL.
+- 🔍 **Análise e Visualização de Dados:** Realizo o processo de ETL e interpreto dados para gerar insights utilizando ferramentas como Python (Pandas, NumPy, Plotly, Matplotlib) e SQL.
   
 - 🤖 **Modelos de IA:** Experiência na criação e treinamento de modelos de inteligência artificial utilizando Plotly.
 
