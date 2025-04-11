@@ -13,11 +13,11 @@ ___
   
 - 🤖 **Modelos de IA:** Experiência na criação e treinamento de modelos de inteligência artificial utilizando Plotly.
 
-- 📊 **Banco de Dados:** Conhecimento em SQL para manipulação e consulta de dados.
+- 📊 **Banco de Dados:** SQL para manipulação e consulta de dados.
 
-- 🔢 **Matemática e Estatística:** Base sólida em probabilidade, estatística e pré-cálculo.
+- 🔢 **Matemática e Estatística:** Conhecimentos sólidos em probabilidade, estatística e pré-cálculo.
 
-- 💡 **Lógica de Programação:** Desenvolvimento estruturado e pensamento analítico para resolver problemas.
+- 💡 **Lógica de Programação:** Pensamento analítico para resolver problemas.
 
 - 🎨 **Front-End:** Experiência com HTML, CSS e JavaScript, criando interfaces responsivas e dinâmicas.
   
